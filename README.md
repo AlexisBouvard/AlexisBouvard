@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Alexis !
 - 👀 I’m interested in IT, sports, and food 💻⚽️🍔
-- 🌱 I’m currently learning Angular & React Native
+- 👨🏻‍💻 Java, Angular & React Native Developer
 - 📫 How to reach me : bouvardalexis@gmail.com
